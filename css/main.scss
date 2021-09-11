@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  flex: 1;
+  background-color: black;
+  color: white;
+}
